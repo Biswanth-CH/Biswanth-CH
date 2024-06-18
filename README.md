@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm BISWANTH CH</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="left">Hi 👋, I'm BISWANTH CH</h1>
+<h3 align="left">A passionate frontend developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://biswanth-ch.github.io/Portfolio/)
 
