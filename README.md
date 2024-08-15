@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **biswanthch@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/18bmA4VRAH6dqfYPvpqqIL77iuw59MXVY)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oNcH2oJZX9g_ve4zPo011sLVSqz7YvAl/view?usp=sharing)
 
 - ⚡ Fun fact **I should learn moreeee!**
 
